@@ -1,0 +1,24 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+*.cache
+
+# Environments & secrets
+.env
+.env.*
+.venv
+venv/
+ENV/
+
+# Local baseline backups
+backups/
+
+# Competition submission artifacts (preserved locally for submission, excluded from public repo)
+code.zip
+output.csv
+log.txt
